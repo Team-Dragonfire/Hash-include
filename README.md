@@ -1,2 +1,2 @@
 # Hash-include
-#include is the site that helps you make project team-building.
+#include is a site that helps you make project team-building.
